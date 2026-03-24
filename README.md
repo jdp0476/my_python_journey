@@ -1,2 +1,15 @@
-# my_python_journey
-Exploring the intersection of logic and creativity through Python. Currently a Junior at UNT building a foundation in automation, data intelligence, and scalable software. My goal is to master Python not just as a tool, but as a way to solve real-world problems with clean, efficient, and 'Pythonic' code.
+# My Python Journey
+
+Welcome to my Python learning repository! I am documenting my progress as I master Python programming from scratch.
+
+## Completed Chapters
+
+### Chapter 01: The Basics (Modules, Pip, & Comments)
+* **Modules:** Learned how to import external code (like `pyjokes`).
+* **Pip:** Mastered the package manager to install libraries.
+* **Comments:** Practiced using `#` for single-line and `""" """` for multi-line notes.
+
+## Getting Started
+To run my projects, you'll need the following modules installed:
+```bash
+pip install pyjokes
